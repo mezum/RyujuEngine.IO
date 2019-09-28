@@ -1,3 +1,9 @@
+/*
+Copyright (c) 2019 Mezumona Kosaki
+Copyright (c) 2019 RyujuOrchestra
+This software is released under the MIT License.
+*/
+
 #if UNITY_ANDROID
 using System;
 using System.IO;
